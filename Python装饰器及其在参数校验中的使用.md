@@ -810,6 +810,6 @@ if __name__ == '__main__':
 3. 使用function.\_\_code__属性下面的各种属性获取，出错的被装饰函数的名字，位置，所在的源文件信息，快速定位故障点。
 
 ## 参考
-[菜鸟教程-装饰器](https://www.runoob.com/w3cnote/python-func-decorators.html)
-[Pyhton参数校验的进化](https://yq.aliyun.com/articles/682443)
-[validator.py](https://validatorpy.readthedocs.io/en/latest/index.html)
+1. [菜鸟教程-装饰器](https://www.runoob.com/w3cnote/python-func-decorators.html)
+2. [Pyhton参数校验的进化](https://yq.aliyun.com/articles/682443)
+3. [validator.py](https://validatorpy.readthedocs.io/en/latest/index.html)
